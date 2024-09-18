@@ -24,5 +24,38 @@
       "endDate": "2018",
       "score": "10"
     }
+  ],
+  "work": [
+    {
+      "name": "Okareo",
+      "position": "Machine Learning Engineer",
+      "url": "https://okareo.com",
+      "startDate": "2024-06-01",
+      "endDate": "2024-09-01",
+      "summary": "Synthetic data generation and model evaluation for Large Language Models (LLMs)"
+    },
+    {
+      "name": "Coding it Forward, US Census Bureau",
+      "position": "Data Science Fellow",
+      "url": "https://codingitforward.com/fellowship",
+      "startDate": "2022-06-01",
+      "endDate": "2022-09-01",
+      "summary": "Differential privacy for the Enhancing Health Data (E-Health) team"
+    },
+    {
+      "name": "Associate Instructor",
+      "position": "UC Davis",
+      "url": "https://cs.ucdavis.edu/",
+      "startDate": "2021-06-01",
+      "summary": "Taught Algorithm Design & Analysis"
+    },
+    {
+      "name": "Syntasa",
+      "position": "Analytics Engineer",
+      "url": "https://www.syntasa.com/",
+      "startDate": "2018-06-01",
+      "endDate": "2021-09-01",
+      "summary": "Data science solutions for e-commerce and civic tech applications"
+    }
   ]
 }
