@@ -32,7 +32,7 @@
       "url": "https://okareo.com",
       "startDate": "2024-06-01",
       "endDate": "2024-09-01",
-      "summary": "Synthetic data generation and model evaluation for Large Language Models (LLMs)"
+      "summary": "Worked on synthetic data generation and model evaluation for Large Language Models (LLMs)"
     },
     {
       "name": "Coding it Forward, US Census Bureau",
@@ -40,7 +40,7 @@
       "url": "https://codingitforward.com/fellowship",
       "startDate": "2022-06-01",
       "endDate": "2022-09-01",
-      "summary": "Differential privacy for the Enhancing Health Data (E-Health) team"
+      "summary": "Built differential privacy tools for the Enhancing Health Data (E-Health) team"
     },
     {
       "name": "Associate Instructor",
@@ -55,7 +55,15 @@
       "url": "https://www.syntasa.com/",
       "startDate": "2018-06-01",
       "endDate": "2021-09-01",
-      "summary": "Data science solutions for e-commerce and civic tech applications"
+      "summary": "Designed and developed data science solutions for e-commerce and civic tech applications"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best Teaching Assistant",
+      "date": "2022",
+      "awarder": "UC Davis Graduate Group in Computer Science",
+      "url": "https://cs.ucdavis.edu/"
     }
   ]
 }
