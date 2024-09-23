@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I wrote some blogs for Okareo over the summer! You can check them out [here](https://okareo.com/blog/posts/synthetic-data) and [here](https://okareo.com/blog/posts/driver-prompting).
+Wrote some blogs for Okareo over the summer! You can check them out [here](https://okareo.com/blog/posts/synthetic-data) and [here](https://okareo.com/blog/posts/driver-prompting).
