@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Gave a presentation at [*How Curious!*](https://engineering.ucdavis.edu/how-curious) about multimodal deep learning for ARDS detection.
+Gave a presentation at [_How Curious!_](https://engineering.ucdavis.edu/how-curious) about multimodal deep learning for ARDS detection.
