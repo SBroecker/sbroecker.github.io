@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: publications
 description: Publications in reverse chronological order.
 nav: True
 nav_order: 2
