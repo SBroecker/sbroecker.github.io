@@ -1,4 +1,7 @@
 # this file uses prebuilt image in dockerhub
+
+# docker compose up [--build]
+
 services:
   jekyll:
     image: amirpourmand/al-folio:latest
